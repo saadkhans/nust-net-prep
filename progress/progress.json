@@ -38,6 +38,16 @@
    "type": "module_complete",
    "topicId": "m-complex",
    "pct": 80
+  },
+  {
+   "id": "mwpttgvc-kfapk",
+   "at": "2026-11-21T03:06:23.016Z",
+   "type": "assessment",
+   "topicId": "e-vocab",
+   "score": 5,
+   "total": 15,
+   "pct": 33,
+   "seconds": 217
   }
  ]
 }
